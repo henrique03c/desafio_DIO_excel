@@ -1,9 +1,9 @@
 
-# 📊 IH7 INVEST — Simulador de Investimentos em FIIs no Excel
+# 📊 ih7 INVEST — Simulador de Investimentos em FIIs no Excel
 
-![IH7 Invest Dashboard](dashboard.png)
+![ih7 Invest Dashboard](dashboard.png)
 
-O **IH7 INVEST** é uma ferramenta desenvolvida em Excel para simular investimentos em **Fundos Imobiliários (FIIs)** de maneira prática, visual e personalizada. Ideal para quem está começando ou quer organizar melhor os aportes mensais e entender a evolução do seu patrimônio ao longo do tempo.
+O **ih7 INVEST** é uma ferramenta desenvolvida em Excel para simular investimentos em **Fundos Imobiliários (FIIs)** de maneira prática, visual e personalizada. Ideal para quem está começando ou quer organizar melhor os aportes mensais e entender a evolução do seu patrimônio ao longo do tempo.
 
 ## ✅ Funcionalidades
 
@@ -35,6 +35,8 @@ O **IH7 INVEST** é uma ferramenta desenvolvida em Excel para simular investimen
 ├── IH7_Invest.xlsx         # Arquivo Excel com a ferramenta completa
 ├── README.md               # Arquivo de documentação
 └── dashboard.png           # Captura de tela da ferramenta
+
+🔒 Senha para edição: 012345
 
 ```
 
