@@ -34,7 +34,7 @@ O **IH7 INVEST** é uma ferramenta desenvolvida em Excel para simular investimen
 ```
 ├── IH7_Invest.xlsx         # Arquivo Excel com a ferramenta completa
 ├── README.md               # Arquivo de documentação
-└── dashboard.png               # Captura de tela da ferramenta
+└── dashboard.png           # Captura de tela da ferramenta
 
 ```
 
